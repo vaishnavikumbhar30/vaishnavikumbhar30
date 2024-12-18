@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Kumbhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.-iGLJ9hAq_jsLkgjtzg-IgAAAA?rs=1&pid=ImgDetMain")
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.-iGLJ9hAq_jsLkgjtzg-IgAAAA?rs=1&pid=ImgDetMain">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavik-09&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavik-09" /> </p>
 
