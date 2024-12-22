@@ -4,7 +4,9 @@
 <h3 align="center">I completed my Master's in Computer Applications. I enjoy exploring how technology and intelligence can create new solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavikumbhar30&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavikumbhar30" /> </p>
+
 
 - 🔭 I’m currently working on **E-commerce site using React**
 
@@ -28,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavikumbhar30&show_icons=true&locale=en" alt="vaishnavikumbhar30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavikumbhar30&" alt="vaishnavikumbhar30" /></p>
+
+
