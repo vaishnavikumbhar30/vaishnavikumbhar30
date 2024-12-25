@@ -1,17 +1,14 @@
 ![logo](https://github.com/vaishnavik-09/vaishnavik-09/blob/main/github-header-image%20(1).png) 
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Kumbhar</h1>
-<h3 align="center">I completed my Master's in Computer Applications. I enjoy exploring how technology and intelligence can create new solutions.</h3>
+<h3 align="center">I completed my Master's in Computer Applications . I enjoy exploring how technology and intelligence can create new solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavikumbhar30&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavikumbhar30" /> </p>
-
 
 - 🔭 I’m currently working on **E-commerce site using React**
 
 - 🌱 I’m currently learning **React and Node.js**
-
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
