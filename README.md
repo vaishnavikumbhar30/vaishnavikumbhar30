@@ -1,3 +1,4 @@
+![logo](https://github.com/vaishnavikumbhar30/vaishnavikumbhar30/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Vaishnavi Kumbhar</h1>
 <h3 align="center">Building engaging web interfaces as a Frontend Developer from India</h3>
 
